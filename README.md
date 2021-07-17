@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sandykris19
-- 👀 I’m interested in Python, MERN & AWS.
+- 👀 I’m interested in React ecosystem, Node.js, Go & AWS.
 - 🌱 I’m currently learning blockchain, backend engineering etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
